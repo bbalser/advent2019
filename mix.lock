@@ -1,0 +1,3 @@
+%{
+  "checkov": {:hex, :checkov, "0.5.1", "546d017317f6593cb199e46266acc73e2160432f90f3fcbecc38762e777d037d", [:mix], [], "hexpm"},
+}
